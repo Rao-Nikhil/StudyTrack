@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "student_id": "S001",
+      "name": "Demo Student",
+      "email": "demo@example.com",
+      "course": "Python Essentials",
+      "semester": 3
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": "T001",
+      "student_id": "S001",
+      "subject": "Python",
+      "date": "2026-09-30",
+      "minutes": 90,
+      "topics": "Functions and file handling"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment_id": "A001",
+      "student_id": "S001",
+      "subject": "Python",
+      "title": "Practice Quiz",
+      "score": 82,
+      "max_score": 100,
+      "percentage": 82.0
+    }
+  ]
+}
